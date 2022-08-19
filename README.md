@@ -1,3 +1,5 @@
+Makes printing stuff to console in C++ is just fun! be it anything, set, map, ... 
+
 #### cout<< anything...(stl*)
 ![cout<< anything...(stl*)](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(305).png)
 
