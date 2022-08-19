@@ -1,5 +1,10 @@
 Makes printing stuff to console in C++ is just fun! be it anything, set, map, ... 
 
+
+# printUtil
+print all kinds of stl containers to console, debug recrsion by printing recursion call stack, plug and play C++ utlity
+with 3 globally vailable void functions _w(), _e(), _b()
+
 #### cout<< anything...(stl*)
 ![cout<< anything...(stl*)](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(305).png)
 
@@ -13,10 +18,6 @@ Makes printing stuff to console in C++ is just fun! be it anything, set, map, ..
 ![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(310).png)
 ![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(308).png)
 
-
-# printUtil
-print all kinds of stl containers to console, debug recrsion by printing recursion call stack, plug and play C++ utlity
-with 3 globally vailable void functions _w(), _e(), _b()
 
 # _w print_stl_operator_overloaded
 #### function _w() : overloads << os stream operator for printing all kinds of stl containers, if nested identifies the nesting and prints inner containers recursively
