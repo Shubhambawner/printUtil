@@ -1,6 +1,15 @@
-![_w() Fnction]()
-![cout<< anything...(stl*)]()
-![recursion]()
+#### cout<< anything...(stl*)
+![cout<< anything...(stl*)](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(305).png)
+
+#### _w() Fnction
+![recursion](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(307).png)
+
+`output`
+![_w() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(306).png)
+
+#### recursion tree
+![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(310).png)
+![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(308).png)
 
 
 # printUtil
