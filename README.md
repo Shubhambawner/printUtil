@@ -9,7 +9,7 @@ with 3 globally vailable void functions _w(), _e(), _b()
 ![cout<< anything...(stl*)](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(305).png)
 
 #### _w() Fnction
-![recursion](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(307).png)
+![recursion](https://github.com/Shubhambawner/printUtil/static/blob/main/Screenshot%20(307).png)
 
 `output`
 ![_w() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(306).png)
