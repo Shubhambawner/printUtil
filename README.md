@@ -6,17 +6,17 @@ print all kinds of stl containers to console, debug recrsion by printing recursi
 with 3 globally vailable void functions _w(), _e(), _b()
 
 #### cout<< anything...(stl*)
-![cout<< anything...(stl*)](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(305).png)
+![cout<< anything...(stl*)](https://github.com/Shubhambawner/printUtil/blob/main/static/Screenshot%20(305).png)
 
 #### _w() Fnction
-![recursion](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(307).png)
+![recursion](https://github.com/Shubhambawner/printUtil/blob/main/static/Screenshot%20(307).png)
 
 `output`
-![_w() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(306).png)
+![_w() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/static/Screenshot%20(306).png)
 
 #### recursion tree
-![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(310).png)
-![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/Screenshot%20(308).png)
+![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/static/Screenshot%20(310).png)
+![_e() and _b() Fnction](https://github.com/Shubhambawner/printUtil/blob/main/static/Screenshot%20(308).png)
 
 
 # _w print_stl_operator_overloaded
